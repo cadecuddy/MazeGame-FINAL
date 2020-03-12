@@ -7,3 +7,5 @@ A "Twitch Plays Pokemon" esque game.
 "Test Application" contains the client interface for controlling the voting on the sprite's movement.
 
 "Test Server" holds the code that creates the server off of the port-forwarded localhost machine and creates the maze, paints the GUI, and tracks movement until the users implicitly beat the maze.
+
+Joint project by Anthony Monte and Cade Cuddy.
